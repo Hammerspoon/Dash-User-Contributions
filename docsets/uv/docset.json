@@ -11,7 +11,7 @@
     "specific_versions": [
         {
             "version": "1.0.0",
-            "archive": "versions/1.0.0/Sample.tgz",
+            "archive": "versions/1.0.0/uv.tgz",
         }
     ]
 }
